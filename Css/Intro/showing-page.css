@@ -1,0 +1,68 @@
+#showing-page{
+    left: 0px;
+    top: 0px;
+    max-width: 1500px;
+    max-height: 790px;
+    height: 100vh;
+    width: 200vh;
+    position: absolute;
+    z-index: 999;
+    outline: 1px solid rgb(255, 255, 255);
+    background-color: rgb(20, 6, 33);
+}
+
+#showing-greetings-h1{
+    font-family:'Cinzel', serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(51, 0, 255), 0 0 25px rgb(201, 237, 255), 0 0 5px rgb(10, 42, 117);
+}
+#showing-greetings-p{
+    font-family:'Cinzel', serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(255, 255, 255), 0 0 25px rgb(201, 237, 255), 0 0 5px rgb(65, 10, 117);
+}
+#showing-greetings-p-II{
+    top: 33%;
+    position: relative;
+    font-family:'Cinzel', serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(255, 255, 255), 0 0 25px rgb(201, 237, 255), 0 0 5px rgb(65, 10, 117)
+}
+#showing-greetings-p-Additional-content{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(109, 127, 116);
+    text-align: center;
+    font-size: 13px;
+    text-shadow: 0.4px 0.4px 1px rgb(83, 11, 119), 0 0 15px rgb(100, 22, 66), 0 0 5px rgb(65, 65, 65);
+}
+
+#introduce-me{
+    width: 1500px;
+    height: 400px;
+    position: absolute;
+    top: 350px;
+    left: 1700px;
+    background-color: transparent;
+}
+#text-inside-introduce-me{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(18, 3, 29);
+    text-align: left;
+    font-size: 8px;
+    text-shadow: 0.4px 0.4px 1px rgb(83, 11, 119), 0 0 15px rgb(100, 22, 66), 0 0 5px rgb(65, 65, 65);
+}
+#butterfly-me{
+    background-image: url("../../Picture/MyPainting/butterfly-26-4.png");
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+    background-size: 100% auto;
+    image-rendering: -moz-crisp-edges; 
+    image-rendering: crisp-edges;
+    width: 300px;
+    height: 150px;
+    position: absolute;
+    left: 50px;
+}

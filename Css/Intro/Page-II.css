@@ -1,0 +1,21 @@
+#Page-II-main-box{
+    width: 1600px;
+    height: 800px;
+    top: 1200px;
+    left:-680px;
+    background-color: transparent;
+    position: relative;
+    margin: 50px auto;
+    outline: 1px solid rgb(255, 255, 255);
+}
+
+#Picture-of-Los-Angeles{
+    background-image: url("../../Picture/OldTime/\'Play\ of\ Sunlight\,\ Los\ Angeles\'.\ Photographed\ by\ Louis\ Fleckenstein\,\ 1912..jpg");
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+    background-size: 100% auto;
+    image-rendering: -moz-crisp-edges; 
+    image-rendering: crisp-edges;
+    width: 30%;
+    height: 78%;
+}

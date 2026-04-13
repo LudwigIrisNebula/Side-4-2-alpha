@@ -1,0 +1,21 @@
+#base{
+    width: 6000px;
+    height: 4000px;
+    position: relative;
+}
+
+#main-page{
+    width: 1401.6px;
+    height: 767.2px;
+    margin: 0 auto;
+    position: relative;
+
+    background-image: url("../../Picture/redd-francisco-VWSSPA1NSVQ-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+body{
+    background-color: rgb(85, 97, 101);
+    overflow-y: auto;
+}

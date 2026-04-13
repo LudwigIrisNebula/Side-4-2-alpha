@@ -1,0 +1,77 @@
+#diamond {
+    width: 50px;
+    height: 50px;
+
+    left: 3725px;
+    top: -60px;
+    position:absolute;
+
+    background: rgba(255,255,255,0.2);
+    outline: 1px solid rgb(255, 255, 255);
+
+    transform: rotate(-45deg);
+}
+#diamond-II {
+    width: 50px;
+    height: 50px;
+
+    left: 3750px;
+    top: -60px;
+    position:absolute;
+
+    background: rgba(255,255,255,0.2);
+    outline: 1px solid rgb(255, 255, 255);
+
+    transform: rotate(-45deg);
+}
+#diamond-III {
+    width: 50px;
+    height: 50px;
+
+    left: 3775px;
+    top: -60px;
+    position:absolute;
+
+    background: rgba(255,255,255,0.2);
+    outline: 1px solid rgb(255, 255, 255);
+
+    transform: rotate(-45deg);
+}
+
+#diamond-content {
+    /* transform: rotate(-45deg); */
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+    font-family: 'Cinzel', serif;
+    text-align: center;
+}
+
+#diamond-line {
+    width: 3px;
+    height: 600px;
+
+    left: 3774px;
+    top: -30px;
+    position:absolute;
+
+    background: rgba(255,255,255,0.2);
+    outline: 1px solid rgb(255, 255, 255);
+
+}
+
+
+#goals-that-changed-the-world {
+    width: 250px;
+    height: 90px;
+
+    left: 3780px;
+    top: 560px;
+    position:absolute;
+
+    background-image: url("../../Picture/UN/17\ Goals\ That\ Will\ Change\ the\ World_UNDP.png");
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+    background-size: 100% auto;
+    image-rendering: -moz-crisp-edges; 
+    image-rendering: crisp-edges;
+}

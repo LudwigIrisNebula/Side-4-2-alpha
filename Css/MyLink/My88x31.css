@@ -1,0 +1,15 @@
+#Box-for-my88x31-button-and-attribution{
+    position: absolute;
+    top: 0px;
+}
+
+.My88x31 {
+    /* background-image: url("../../Picture/MySiteIconOrSomething/LudwigIrisNebulaSide.png"); */
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+    background-size: 100% auto;
+    image-rendering: -moz-crisp-edges; 
+    image-rendering: crisp-edges;
+    width: 88px;
+    height: 31px;
+}

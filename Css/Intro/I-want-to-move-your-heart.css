@@ -1,0 +1,23 @@
+#box-for-I-want-to-move-your-heart-picture{
+    width: 158px;
+    height: 117px;
+    position: absolute;
+    top: 160px;
+    left: 3600px;
+}
+#I-want-to-move-your-heart-picture{
+    background-image: url("../../Picture/MyCode/1723551165519.png");
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+    background-size: 100% auto;
+    image-rendering: -moz-crisp-edges; 
+    image-rendering: crisp-edges;
+    width: 100%;
+    height: 100%;
+}
+#attribution-for-I-want-to-move-your-heart{
+    font-size: 4px;
+    text-align: left;
+    color: rgb(211, 136, 55);
+    font-family: 'Playfair Display', cursive;
+}

@@ -1,0 +1,136 @@
+#big-diamond-area-for-otherside {
+    width: 500px;
+    height: 500px;
+
+    left: 3700px;
+    top: 1100px;
+    position:absolute;
+
+    background: rgba(255,255,255,0.2);
+    /* outline: 1px solid rgb(255, 255, 255); */
+
+    /* transform: rotate(-45deg); */
+}
+#big-diamond-area-for-decorate {
+    width: 550px;
+    height: 550px;
+
+    left: 3675px;
+    top: 1075px;
+    position:absolute;
+
+    background: rgba(2, 44, 76, 0.2);
+    /* outline: 1px solid rgb(255, 255, 255); */
+/* 
+    transform: rotate(-45deg); */
+}
+#big-diamond-area-for-decorate-II {
+    width: 560px;
+    height: 560px;
+
+    left: 3670px;
+    top: 1070px;
+    position:absolute;
+
+    background: rgba(2, 44, 76, 0.2);
+    /* outline: 1px solid rgb(255, 255, 255); */
+
+    transform: rotate(-45deg);
+}
+#diamond-area-title{
+    font-size: 12px;
+    top:-10px;
+    color: rgb(255, 255, 255);
+    font-family: 'Cinzel', serif;
+    text-align: center;
+}
+#diamond-area {
+    width: 425px;
+    height: 50px;
+
+    left: -45px;
+    top: -30px;
+    position:absolute;
+
+    outline: 1px solid rgb(255, 255, 255);
+    /* transform: rotate(45deg); */
+}
+#diamond-area-II {
+    width: 425px;
+    height: 50px;
+
+    left: 170px;
+    top: 54px;
+    position:absolute;
+
+    outline: 1px solid rgb(255, 255, 255);
+    /* transform: rotate(45deg); */
+}
+#diamond-area-inside{
+    width: 100%;
+    height: 100%;
+
+    top: 3%;
+    left: 7%;
+    position: relative;
+
+    background: rgba(47, 56, 122, 0.2);
+
+}
+
+#attribution-for-my-link-box{
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+    font-family: 'Cinzel', serif;
+    text-align: center;
+}
+#MyLinkBox {
+    width: 89px;
+    height: 500px;
+    left:3650px;
+    top: 1170px;
+    position:absolute;
+
+    /* outline: 1px ridge rgb(255, 255, 255); */
+}
+#MyLinkBox-II {
+    width: 88px;
+    height: 31px;
+    left:0px;
+    top: 0px;
+    position:relative;
+
+    background: rgba(255,255,255,0.2);
+    outline: 1px solid rgb(255, 255, 255);
+}
+
+#door-inside-diamond-area {
+    width: 160px;
+    height: 400px;
+    left: 3970px;
+    top: 1200px;
+    position:absolute;
+
+    outline: 1px solid rgb(255, 255, 255);
+    box-shadow: 0 0 5px rgb(255, 255, 255), 0 0 10px rgb(255, 255, 255), 0 0 30px rgb(255, 255, 255);
+}
+#Steps-under-the-door{
+    width: 180px;
+    height: 1px;
+    right: 1870px;
+    top: 1620px;
+    position:absolute;
+
+    outline: 1px solid rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgb(255, 255, 255), 0 0 20px rgb(255, 255, 255), 0 0 30px rgb(255, 255, 255);
+}
+#Steps-under-the-door-II{
+    width: 200px;
+    height: 1px;
+    right: 1870px;
+    top: 1630px;
+    position:absolute;
+
+    outline: 1px solid rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgb(255, 255, 255), 0 0 20px rgb(255, 255, 255), 0 0 30px rgb(255, 255, 255);
+}
