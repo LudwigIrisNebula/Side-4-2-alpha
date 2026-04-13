@@ -1,0 +1,9 @@
+#Box-I-higherPlace{
+    top: 100px;
+    position: absolute;
+
+    width: 100%;
+    height: 30px;
+
+    text-align: center;
+}

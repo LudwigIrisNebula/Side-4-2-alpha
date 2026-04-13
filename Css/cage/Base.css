@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+
+    display: flex;
+    justify-content: center;
+}
+#cage{
+    position: relative;
+
+    width: 700px;
+    height: 8000px;
+    outline: 1px solid rgb(255, 255, 255);
+}
+
+#higher-place {
+    width: 700px;
+    height: 33%;
+
+    left: 0px;
+    top: 0px;
+    position:absolute;
+
+    background: rgb(247, 244, 244);
+    outline: 1px solid rgb(255, 255, 255);
+}
+#central-place {
+    width: 700px;
+    height: 33%;
+
+    left: 0px;
+    top: 3000px;
+    position:absolute;
+
+    background: rgba(118, 83, 83, 0.2);
+    outline: 1px solid rgb(255, 255, 255);
+}
+#valley-bottom{
+    width: 700px;
+    height: 34%;
+
+    left: 0px;
+    top: 6000px;
+    position: absolute;
+
+    background: rgba(81, 23, 23, 0.2);
+    outline: 1px solid rgb(255, 255, 255);
+}

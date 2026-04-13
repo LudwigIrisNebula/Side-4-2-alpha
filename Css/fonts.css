@@ -2,3 +2,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
+
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(109, 127, 116);
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(83, 11, 119), 0 0 25px rgb(100, 22, 66), 0 0 5px rgb(65, 65, 65);
+}
+
+a:link { 
+    color: rgb(113, 125, 113);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(104, 128, 143);
+    text-decoration: none;
+}
+
+
+#diamond-content {
+    /* transform: rotate(-45deg); */
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+    font-family: 'Cinzel', serif;
+    text-align: center;
+}

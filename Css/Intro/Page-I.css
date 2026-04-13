@@ -143,23 +143,6 @@
     height: 10%;
 } */
 
-p{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: rgb(109, 127, 116);
-    text-align: center;
-    text-shadow: 1px 1px 2px rgb(83, 11, 119), 0 0 25px rgb(100, 22, 66), 0 0 5px rgb(65, 65, 65);
-}
-
-
-a:link { 
-    color: rgb(113, 125, 113);
-    text-decoration: none;
-}
-a:hover {
-    color: rgb(104, 128, 143);
-    text-decoration: none;
-}
-
 #Attribution{
     bottom: 0%;
 }

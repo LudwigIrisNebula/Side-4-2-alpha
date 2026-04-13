@@ -1,15 +1,15 @@
 #side-diary-or-something{
-            width: 1400px;
-            height: 1340px;
-            background-color: transparent;
-            position: absolute;
-            bottom: 600px;
-            right: -405px;
-            outline: 1px solid rgb(255, 255, 255);
-            text-align: center;
-        }
+    width: 1400px;
+    height: 1340px;
+    background-color: transparent;
+    position: absolute;
+    bottom: 600px;
+    right: -405px;
+    outline: 1px solid rgb(255, 255, 255);
+    text-align: center;
+}
 
-#side-dirary-top-box{
+#side-diary-top-box{
     width: 100%;
     height: 300px;
     background-color: transparent;
@@ -19,7 +19,7 @@
     outline: 1px solid rgb(255, 255, 255);
 }
 
-#side-dirary-left-box{
+#side-diary-left-box{
     width: 400px;
     height: 1440px;
     top:300px;
