@@ -1,0 +1,13 @@
+#left-side-box-inside-TP-LSTP{
+    height: 100%;
+    width: 900px;
+    position: relative;
+    /* outline: 1px solid wheat; */
+}
+#title-inside-LSTP{
+    /* font-family: "Explora", serif; */
+    font-family:'Cinzel', serif;
+    font-size: 40px;
+    color: rgb(255, 247, 219);
+    text-shadow: 1px 0px 1px rgb(255, 166, 0);
+}

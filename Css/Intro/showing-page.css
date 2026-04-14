@@ -33,6 +33,9 @@
     text-shadow: 1px 1px 2px rgb(255, 255, 255), 0 0 25px rgb(201, 237, 255), 0 0 5px rgb(65, 10, 117)
 }
 #showing-greetings-p-Additional-content{
+    position: absolute;
+    top: 800px;
+    left: 200px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(109, 127, 116);
     text-align: center;

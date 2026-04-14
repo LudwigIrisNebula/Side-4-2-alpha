@@ -1,0 +1,37 @@
+.window {
+    position: absolute;
+    top: 100px;
+    left: 800px;
+    width: 300px;
+    height: 200px;
+
+    /* background: rgba(0,0,0,0.8); */
+    /* color: white; */
+
+    border: 1px solid wheat;
+    transform: rotate(-45deg);
+}
+.title-bar {
+    height: 25px;
+    background: wheat;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    cursor: move;
+    padding: 0 5px;
+}
+.buttons button {
+    width: 20px;
+    height: 20px;
+    margin-left: 2px;
+
+    background: #7d5f47;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.content {
+    padding: 0px;
+}

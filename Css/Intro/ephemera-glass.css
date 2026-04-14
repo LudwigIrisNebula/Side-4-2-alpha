@@ -37,6 +37,13 @@
 
     transform: rotate(-45deg);
 }
+#diamond-content {
+    /* transform: rotate(-45deg); */
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+    font-family: 'Cinzel', serif;
+    text-align: center;
+}
 
 #diamond-line {
     width: 3px;
@@ -71,6 +78,7 @@
     font-family: 'Cinzel', serif;
     text-align: left;
 }
+
 
 
 #goals-that-changed-the-world {

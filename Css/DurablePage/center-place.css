@@ -1,0 +1,32 @@
+#top-box-inside-CP-TBCP{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    height: 60px;
+    width: 100%;
+    outline: 1px solid wheat;
+}
+#left-side-box-inside-CP-LSCP{
+    position: relative;
+    outline: 1px solid wheat;
+    top: 0px;
+    left: 0px;
+    height: 300px;
+    width: 400px;
+}
+#todo-box-inside-LSCP{
+    position: relative;
+    width: 100%;
+    height: calc(100% - 20px);
+    /* outline: 1px solid gray; */
+    /* overflow:scroll */
+}
+
+#right-side-box-inside-CP-RSCP{
+    position: absolute;
+    top: 20px;
+    right: 0px;
+    height: 300px;
+    width: 60%;
+    outline: 1px solid wheat;
+}

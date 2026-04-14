@@ -1,0 +1,45 @@
+#common-gray-title-s15{
+    font-family: 'Bodoni Moda', serif;
+    font-size: 15px;
+    color: rgb(134, 134, 134);
+    text-shadow: 1px 0px 1px rgb(71, 67, 64), 0px 0px 1px wheat;
+}
+#common-white-text-s11{
+    left: 3px;
+    position: relative;
+    font-family: 'Bodoni Moda', serif;
+    font-size: 11px;
+    color: rgb(77, 17, 17);
+}
+#common-wheat-link-text{
+    color: wheat; 
+    text-decoration: none;
+    text-shadow: 2px 0px 1px maroon;
+}
+#common-wheat-link-text:hover{
+    text-shadow: 1px 0px 1px maroon;
+}
+
+#title-for-todo-box-s10{
+    font-family: 'Playfair Display', cursive;
+    color: rgb(225, 223, 255);
+    left: 2px;
+    position: relative;
+    font-size: 10px;
+    text-shadow: 1px 1px 2px rgb(39, 106, 18), 0 0 25px rgb(22, 97, 100), 0 0 5px rgb(65, 65, 65);
+}
+#title-for-todo-box-s8{
+    font-family: 'Playfair Display', cursive;
+    color: rgb(255, 186, 108);
+    left: 2px;
+    position: relative;
+    font-size: 8px;
+    text-shadow: 1px 1px 2px rgb(158, 105, 31), 0 0 25px rgb(88, 100, 22), 0 0 5px rgb(57, 5, 5);
+}
+#text-for-todo-box-s6{
+    font-size: 6px;
+    left: 2px;
+    position: relative;
+    color: rgb(208, 208, 208);
+    font-family: 'Playfair Display', cursive;
+}

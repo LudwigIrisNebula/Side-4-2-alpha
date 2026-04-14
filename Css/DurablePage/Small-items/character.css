@@ -1,0 +1,9 @@
+#kris-battle{
+    background-image: url("../../../Picture/Games/deltarune/kris-battle.gif");
+    position: absolute;
+    background-size: contain;
+    top: 300px;
+    left: 10px;
+    height: 60px;
+    width: 56px;
+}

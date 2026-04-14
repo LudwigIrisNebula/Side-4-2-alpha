@@ -1,0 +1,65 @@
+body{
+    background-color: gray;
+    /* background-image: url("../../Picture/OtherBackground/tushar-ranjan-seth-0-hpUrMdjVY-unsplash.jpg"); */
+    /* background-image: url("../../Picture/MyPainting/"); */
+    
+    background-repeat: no-repeat;
+    background-position: top left;
+    image-rendering: pixelated;
+    background-size: 160% auto;
+    /* background-attachment: fixed; */
+    image-rendering: -moz-crisp-edges; 
+    image-rendering: crisp-edges;
+    height: auto;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+#base{
+    position: absolute;
+    left: 90px;
+    margin-top: 60px;
+
+    width: 760px;
+    height: 400px;
+    outline: 1px solid rgb(255, 255, 255);
+}
+
+#top-place{
+    height: 0%;
+    width: 220%;
+    top: -50px;
+    left: -5%;
+    position: absolute;
+    /* outline: 1px solid wheat; */
+}
+#higher-place{
+    height: 300px;
+    width: 100%;
+    top: 0px;
+    position: absolute;
+    outline: 1px solid white;
+}
+#center-place{
+    height: 600px;
+    width: 100%;
+    top: 300px;
+    position: absolute;
+    outline: 1px solid white;
+}
+
+#common-top-box{
+    position: relative;
+    height: 10%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    outline: 1px solid wheat;
+}
+#pattern-decorate{
+    outline: 1px solid wheat;
+    height: 10px;
+    width: 10px;
+    position: absolute;
+    transform: rotate(-45deg);
+}
